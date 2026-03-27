@@ -64,7 +64,7 @@ The ERD reveals a hub-and-spoke architecture centered on the `customers` table, 
 | `payments.csv` | Payment records from customers |
 
 
-[View SQL Queries Here](SQL_Queries/Customer_LIfetime_Value.sql) 
+[View SQL Queries Here](Customer_LIfetime_Value/Customer_LIfetime_Value.sql) 
 
 ---
 
